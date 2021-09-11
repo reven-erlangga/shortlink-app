@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     alignment: Alignment.centerLeft,
                     child: Text(
                       result,
-                      style: TextStyle(color: Colors.red, fontSize: 16.0),
+                      style: TextStyle(color: Colors.red, fontSize: 18.0),
                     )),
               )
             ],
